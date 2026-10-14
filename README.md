@@ -14,7 +14,6 @@ No real customer data or banking systems are connected.
 ## Run
 
 ```cmd
-cd "C:\Users\Sakshi S Netrakar\Desktop\Smart Banking Support Agent"
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
